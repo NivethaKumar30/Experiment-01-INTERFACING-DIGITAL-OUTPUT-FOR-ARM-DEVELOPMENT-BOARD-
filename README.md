@@ -186,7 +186,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 ```
 ## Output  :
+
+ CASE 1 : LED IS ON
+
+
  
+CASE 2 : LED IS OFF
+
  
  
  
