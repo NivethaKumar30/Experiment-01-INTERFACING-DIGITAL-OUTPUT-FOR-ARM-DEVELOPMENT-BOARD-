@@ -1,4 +1,4 @@
-# Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
+![Screenshot 2023-08-16 215808](https://github.com/NivethaKumar30/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559844/a1652fec-e3e0-4c52-9c9e-51561aa0e96a)![Screenshot 2023-08-16 215808](https://github.com/NivethaKumar30/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559844/be1bced5-ebc5-4dd9-b6b2-0786661122d3)# Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
  
 
 ## Aim: To Interface a Digital output (LED) to ARM development board and write a blink code 
@@ -188,13 +188,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
 
  CASE 1 : LED IS ON
-
+ 
+![Screenshot 2023-08-16 215808](https://github.com/NivethaKumar30/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559844/6e60ead4-c24f-466a-9abf-560590e8f23a)
 
  
 CASE 2 : LED IS OFF
 
- 
- 
+ ![Screenshot 2023-08-16 215826](https://github.com/NivethaKumar30/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119559844/7faaaa54-e954-4e16-8f82-e850852718bd)
+
+
  
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
